@@ -9,12 +9,12 @@ Expo Go: To test the app on a real mobile device or simulator.
 ## Installation
 Clone the project repository from GitHub.
 Install the required dependencies:
-React Navigation
-TailwindCSS
-Axios
-React Native heroicons
-Lodash
-React Native Shadow 2
+   •	React Navigation
+   •  TailwindCSS
+   •	Axios
+   •	React Native heroicons
+   •	Lodash
+   •	React Native Shadow 2
 ## Launch the App:
 npx expo start
 
