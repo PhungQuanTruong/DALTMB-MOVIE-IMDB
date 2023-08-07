@@ -1,29 +1,32 @@
-# IMDb Movie App
+## IMDb Movie App
+## Introduction
+IMDb Movie App is a mobile application for viewing movie information from the IMDb database. The app is developed using React Native and leverages Expo to create a cross-platform mobile app. In this project, we also use React Navigation for screen navigation and Tailwind CSS for user interface design.
 
-## Giới thiệu
-IMDb Movie App là một ứng dụng di động xem thông tin về phim từ cơ sở dữ liệu IMDb. Ứng dụng được phát triển bằng React Native và sử dụng Expo để tạo ứng dụng di động đa nền tảng. Trong dự án này, chúng ta cũng sử dụng React Navigation để điều hướng giữa các màn hình và Tailwind CSS để thiết kế giao diện người dùng.
+## System Requirements
+Node.js and npm (Node Package Manager)
+Expo CLI: Installed globally via npm (npm install -g expo-cli)
+Expo Go: To test the app on a real mobile device or simulator.
+## Installation
+Clone the project repository from GitHub.
+Install the required dependencies:
+React Navigation
+TailwindCSS
+Axios
+React Native heroicons
+Lodash
+React Native Shadow 2
+## Launch the App:
+npx expo start
 
-## Yêu cầu hệ thống
-- Node.js và npm (Node Package Manager)
-- Expo CLI: Được cài đặt toàn cục thông qua npm (`npm install -g expo-cli`)
-- Expo Go: Để thử nghiệm ứng dụng trên thiết bị di động thật hoặc giả lập.
+## User Guide
+Open the app on a mobile device or simulator.
+The interface will display a list of popular movies, and you can scroll down to see more.
+Tap on a movie to view detailed information, including title, director, cast, genre, IMDb rating, and description.
+You can also use the search feature to find movies by title or cast.
 
-## Cài đặt
-1. Sao chép kho dự án từ GitHub
-2. Cài đặt các gói phụ thuộc:
-   •	React Navigation
-   •	TailwindCSS
-   •	Axios
-   •	React native heroicons
-   •	Lodash
-   •	React Native Shadow 2
-## Khởi động ứng dụng:
-   npx expo start
-## Hướng dẫn sử dụng
-- Mở ứng dụng trên thiết bị di động hoặc giả lập.
-- Giao diện sẽ hiển thị danh sách các phim phổ biến, bạn có thể cuộn xuống để xem thêm.
-- Nhấp vào một phim để xem thông tin chi tiết về phim đó, bao gồm tiêu đề, đạo diễn, diễn viên, thể loại, điểm IMDb, và mô tả.
-- Bạn cũng có thể sử dụng chức năng tìm kiếm để tìm kiếm phim theo tiêu đề hoặc diễn viên.
+
+
+
 
    
    
