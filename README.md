@@ -17,7 +17,7 @@ IMDb Movie App là một ứng dụng di động xem thông tin về phim từ c
    •	React native heroicons
    •	Lodash
    •	React Native Shadow 2
-##Khởi động ứng dụng:
+## Khởi động ứng dụng:
    npx expo start
 ## Hướng dẫn sử dụng
 - Mở ứng dụng trên thiết bị di động hoặc giả lập.
